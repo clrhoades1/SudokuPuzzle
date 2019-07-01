@@ -18,4 +18,7 @@ public class sudokuCell {
     public boolean isNumberPermanent() {
         return this.isPermanentNumber;
     }
+    public static void main(String [] args) {
+        
+    }
 }
